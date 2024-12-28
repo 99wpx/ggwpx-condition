@@ -1,4 +1,4 @@
-# ggpwx-check-hht
+# Critical Condition Notifications
 
 ## Description
 ggwpx-condition is a QBCore script that provides notifications to players when their health, hunger, or thirst drops below a certain threshold. This script helps players stay aware of their health and needs in the game.
